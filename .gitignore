@@ -1,0 +1,3 @@
+*.py[co]
+*_env
+db.sqlite3
